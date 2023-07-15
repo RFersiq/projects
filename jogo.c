@@ -15,10 +15,10 @@ typedef struct _PERSONAGEM
         int velocidade;
         int defesa;
 	}PERSONAGEM;
-
+// wwww
 PERSONAGEM guerreiro, assassino, mago;
 
-void boneco();
+void boneco(); 
 int main()
 {
 
